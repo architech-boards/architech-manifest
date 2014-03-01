@@ -7,6 +7,13 @@
 
 
     <project
+        name        = "architech-manifest"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+
+
+    <project
         name        = "machine_installer"
         remote      = "architech-boards"
         revision    = "dora"
