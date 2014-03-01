@@ -99,7 +99,7 @@
     <project
         name        = "pengwyn-documentation"
         remote      = "architech-boards"
-        revision    = "dora"
+        revision    = "denzil"
     />
 
 </manifest>
