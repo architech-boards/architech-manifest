@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote
+        name        = "architech-boards"
+        fetch       = "https://github.com/architech-boards/"
+    />
+
+
+    <project
+        name        = "machine_installer"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+
+
+    <project
+        name        = "splashscreen"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "splashscreen_interface"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+
+
+    <project
+        name        = "tibidabo-manifest"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "meta-tibidabo"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "tibidabo-documentation"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "tibidabo-splashscreen"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+
+
+    <project
+        name        = "hachiko-manifest"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "meta-hachiko"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />    
+    <project
+        name        = "hachiko-documentation"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "hachiko-splashscreen"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "hachiko-tiny-documentation"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "hachiko-tiny-splashscreen"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+
+
+    <project
+        name        = "zedboard-manifest"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "zedboard-documentation"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+    <project
+        name        = "zedboard-splashscreen"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+
+
+    <project
+        name        = "pengwyn-documentation"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+
+</manifest>
