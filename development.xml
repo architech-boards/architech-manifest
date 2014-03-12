@@ -14,6 +14,13 @@
 
 
     <project
+        name        = "splashscreen-utils"
+        remote      = "architech-boards"
+        revision    = "dora"
+    />
+
+
+    <project
         name        = "machine_installer"
         remote      = "architech-boards"
         revision    = "dora"
