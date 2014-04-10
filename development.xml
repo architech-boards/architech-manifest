@@ -111,9 +111,15 @@
 
 
     <project
+        name        = "pengwyn-splashscreen"
+        remote      = "architech-boards"
+        revision    = "denzil"
+    />
+    <project
         name        = "pengwyn-documentation"
         remote      = "architech-boards"
         revision    = "denzil"
     />
+
 
 </manifest>
