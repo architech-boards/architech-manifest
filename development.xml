@@ -16,7 +16,7 @@
     <project
         name        = "splashscreen-utils"
         remote      = "architech-boards"
-        revision    = "dizzy"
+        revision    = "dora"
     />
 
 
@@ -40,77 +40,6 @@
 
 
     <project
-        name        = "tibidabo-manifest"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "meta-tibidabo"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "tibidabo-documentation"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "tibidabo-splashscreen"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-
-
-    <project
-        name        = "hachiko-manifest"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "meta-hachiko"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />    
-    <project
-        name        = "hachiko-documentation"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "hachiko-splashscreen"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "hachiko-tiny-documentation"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "hachiko-tiny-splashscreen"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-
-
-    <project
-        name        = "zedboard-manifest"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "zedboard-documentation"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "zedboard-splashscreen"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-
-
-    <project
         name        = "pengwyn-splashscreen"
         remote      = "architech-boards"
         revision    = "dizzy"
@@ -118,7 +47,7 @@
     <project
         name        = "pengwyn-documentation"
         remote      = "architech-boards"
-        revision    = "dizzy"
+        revision    = "v1.1.0"
     />
 
 
