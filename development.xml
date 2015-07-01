@@ -37,19 +37,5 @@
         remote      = "architech-boards"
         revision    = "dizzy"
     />
-
-
-    <project
-        name        = "pengwyn-splashscreen"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-    <project
-        name        = "pengwyn-documentation"
-        remote      = "architech-boards"
-        revision    = "v1.1.0"
-    />
-
-
 </manifest>
 
