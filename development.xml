@@ -5,37 +5,28 @@
         fetch       = "https://github.com/architech-boards/"
     />
 
-
     <project
         name        = "architech-manifest"
         remote      = "architech-boards"
-        revision    = "dizzy"
+        revision    = "2.2.0"
     />
-
 
     <project
         name        = "splashscreen-utils"
         remote      = "architech-boards"
-        revision    = "dora"
+        revision    = "2.2.0"
     />
-
-
-    <project
-        name        = "machine_installer"
-        remote      = "architech-boards"
-        revision    = "dizzy"
-    />
-
 
     <project
         name        = "splashscreen"
         remote      = "architech-boards"
-        revision    = "dizzy"
+        revision    = "2.2.0"
     />
+    
     <project
         name        = "splashscreen_interface"
         remote      = "architech-boards"
-        revision    = "dizzy"
+        revision    = "2.2.0"
     />
 </manifest>
 
